@@ -1,6 +1,10 @@
 # kubernetes-101
 This is a repository that contains commands to create a kubernetes cluster
 
+## Start three Ubuntu 18.04.2 LTS servers
+
+1. you can do this on Virtual Box in local machine or on AWS EC2 instances.
+
 ## Install Docker on all three nodes.
 
 1. Do the following on all three nodes:
